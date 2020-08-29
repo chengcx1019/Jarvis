@@ -1,2 +1,1 @@
-HUBOT_SLACK_TOKEN=xoxb-222935299232-625500868769-PNwj9Nxqta7akMJ5EaQztO4P ./bin/hubot --adapter slack
-
+HUBOT_SLACK_TOKEN=xoxb-222935299232-625500868769-N8GTCUS0C1QAUD0durSvoqs8 ./bin/hubot --adapter slack
